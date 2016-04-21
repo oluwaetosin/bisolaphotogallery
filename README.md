@@ -1,2 +1,2 @@
 # bisolaphotogallery
-A photo gallery for bisola
+A photo gallery for bisola.
